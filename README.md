@@ -1,7 +1,9 @@
 # Electromax
 En base a la base de datos brindada por el cliente se busca responder a traves de un reporte de Power Bi a las siguientes consultas:
 
-📊 Ventas y Rendimiento¿En qué país se realizan más ventas en términos de cantidad de productos vendidos?¿Cuál es el monto total de ventas por país?¿Cómo se distribuyen las ventas entre tienda física y online?¿Cuáles son los productos más vendidos en cada país?¿Cuál es la categoría de productos con mayor cantidad de ventas?
+📊 Ventas y Rendimiento
+¿En qué país se realizan más ventas en términos de cantidad de productos vendidos?
+¿Cuál es el monto total de ventas por país?¿Cómo se distribuyen las ventas entre tienda física y online?¿Cuáles son los productos más vendidos en cada país?¿Cuál es la categoría de productos con mayor cantidad de ventas?
 
   💰 Ingresos y Rentabilidad¿Cuál es la rentabilidad promedio por producto? (Precio - Costo)¿Cuáles son los productos más rentables?¿Qué margen de ganancia tenemos en cada país?¿Cómo varía la rentabilidad entre ventas en tienda y online?
 

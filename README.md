@@ -1,4 +1,4 @@
-                                                      Electromax
+  Electromax
 En base a la base de datos brindada por el cliente se busca responder a traves de un reporte de Power Bi a las siguientes consultas:
 
   📊 Ventas y Rendimiento

@@ -1,7 +1,7 @@
 # Electromax
 En base a la base de datos brindada por el cliente se busca responder a traves de un reporte de Power Bi a las siguientes consultas:
 
-  📊 Ventas y Rendimiento
+📊 Ventas y Rendimiento
 ¿En qué país se realizan más ventas en términos de cantidad de productos vendidos?
 ¿Cuál es el monto total de ventas por país?
 ¿Cómo se distribuyen las ventas entre tienda física y online?

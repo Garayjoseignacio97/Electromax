@@ -8,19 +8,19 @@ En base a la base de datos brindada por el cliente se busca responder a traves d
 4. ¿Cuáles son los productos más vendidos en cada país?
 5. ¿Cuál es la categoría de productos con mayor cantidad de ventas?
 
-  💰 Ingresos y Rentabilidad
-6. ¿Cuál es la rentabilidad promedio por producto? (Precio - Costo)
-7. ¿Cuáles son los productos más rentables?
-8. ¿Qué margen de ganancia tenemos en cada país?
-9. ¿Cómo varía la rentabilidad entre ventas en tienda y online?
+💰 Ingresos y Rentabilidad
+1. ¿Cuál es la rentabilidad promedio por producto?
+2. ¿Cuáles son los productos más rentables?
+3. ¿Qué margen de ganancia tenemos en cada país?
+4. ¿Cómo varía la rentabilidad entre ventas en tienda y online?
 
-  🛒 Clientes y Comportamiento de Compra
-10. ¿Qué clientes han realizado más compras en términos de cantidad y monto total?
-11. ¿Cómo se distribuyen los clientes por país?
-12. ¿Hay clientes que compran solo online o solo en tienda?
-13. ¿Qué categorías de productos prefieren los clientes de cada país?
+🛒 Clientes y Comportamiento de Compra
+1. ¿Qué clientes han realizado más compras en términos de cantidad y monto total?
+2. ¿Cómo se distribuyen los clientes por país?
+3. ¿Hay clientes que compran solo online o solo en tienda?
+4. ¿Qué categorías de productos prefieren los clientes de cada país?
 
-  📅 Tendencias y Temporalidad
-14. ¿Cuál es el día o mes con mayor volumen de ventas?
-15. ¿Existen patrones estacionales en las ventas?
-16. ¿En qué horario se generan más compras online?
+📅 Tendencias y Temporalidad
+1. ¿Cuál es el día o mes con mayor volumen de ventas?
+2. ¿Existen patrones estacionales en las ventas?
+3. ¿En qué horario se generan más compras online?

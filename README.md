@@ -1,4 +1,11 @@
 # Electromax
+
+Resumen de la base de datos ElectroMax :
+-Transacciones : Registra las ventas con detalles como el cliente, producto, tipo de venta, cantidad y país.
+-Clientes : Contiene información sobre los clientes (ID, nombre, apellido y país).
+-Categorías : Defina las categorías y subcategorías de productos.
+-Precios : Lista los productos con su precio y costo.
+
 En base a la base de datos brindada por el cliente se busca responder a traves de un reporte de Power Bi a las siguientes consultas:
 
 📊 Ventas y Rendimiento
